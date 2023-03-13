@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Steven-Ysm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-Ysm&show_icons=true&theme=tokyonight)
+- 🌱 I’m currently learning Nanjing University of Aeronautics and Astronautics。
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ysm&layout=compact)](https://github.com/Steven-Ysm/github-readme-stats)
+
+![Steven-Ysm's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Steven-Ysm&show_icons=true)
